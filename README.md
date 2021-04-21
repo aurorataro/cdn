@@ -1,3 +1,3 @@
-# image
+# cdn
 
-save image for jsDelivr CDN
+save files on jsDelivr CDN
